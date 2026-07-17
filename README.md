@@ -2,16 +2,27 @@
 
 ## Network Engineer - Technical Consulting Engineer | Cisco TAC | Capgemini 
 
-I'm a Network Engineer with hands-on experience supporting enterprise network infrastructure and troubleshooting Cisco technologies. I enjoy building practical networking labs, learning data center technologies, and exploring network automation with Python.
-
----
+I'm a Network Engineer at Capgemini, currently working in Cisco TAC and supporting enterprise network environments. I enjoy solving networking challenges, building hands-on enterprise and data center labs, and continuously expanding my expertise in infrastructure monitoring, Linux, Docker, and Python-based network automation. This GitHub profile showcases the projects I build to strengthen my practical skills and document my learning journey.
 
 ## 🎓 Education
+## 🎓 Education
 
-- M.Tech in Cloud Computing – BITS Pilani (Work Integrated Learning Programme)
-- B.Tech in Computer Science & Engineering – Amity University
+### M.Tech in Cloud Computing *(2025 – Present)*
+**BITS Pilani – Work Integrated Learning Programme (WILP)**
 
----
+- **CGPA:** 9/10
+
+- Pursuing a Master's degree while working as a Network Engineer.
+- Focus areas include Cloud Computing, Distributed Systems, Virtualization, and Network Technologies.
+
+### B.Tech in Computer Science & Engineering *(2020 – 2024)*
+**Amity University, Gurugram**
+
+- **CGPA:** 8.68/10
+- 🥉 Awarded the **Bronze Medal** for securing **3rd Position Overall** in the B.Tech CSE program.
+- Minor specialization in **Computer Forensics & Cyber Security**.
+- Published a white paper titled **"Importance of Website Usability and Digital Marketing"** (June 2023).
+- Completed multiple academic and practical projects in networking, cybersecurity, Python, and web technologies.
 
 ## 💼 Professional Experience
 
@@ -28,9 +39,7 @@ Supporting enterprise customers by troubleshooting and resolving Cisco networkin
 - Perform Root Cause Analysis (RCA) for customer incidents.
 - Collaborate with global engineering teams to resolve complex technical issues.
 - Support Cisco LAN Switching technologies and enterprise network infrastructure.
-- Work with Cisco HyperFlex and Cisco UCS environments.
-
----
+- Work with Cisco HyperFlex and Cisco Switching environments.
 
 ## 🛠️ Technologies & Tools
 
@@ -59,16 +68,12 @@ Designed and implemented a multi-site enterprise network using Cisco Packet Trac
 **Repository:**  
 https://github.com/Heemakshi-Sharma/enterprise-network-design
 
----
-
 ### 🌐 Data Center Spine-Leaf Architecture
 
 Designed a modern Spine-Leaf Data Center topology while studying VXLAN concepts and scalable network architectures.
 
 **Repository:**  
 https://github.com/Heemakshi-Sharma/data-center-vxlan-spine-leaf
-
----
 
 ### 📊 Infrastructure Monitoring Platform
 
@@ -77,21 +82,16 @@ Built an infrastructure monitoring platform using Ubuntu, Docker, Prometheus, an
 **Repository:**  
 https://github.com/Heemakshi-Sharma/infrastructure-monitoring-prometheus-grafana
 
----
-
 ### 🤖 Python Network Automation (In Progress)
 
 Developing a Python-based automation tool to back up Cisco device configurations and perform compliance checks.
 
 **Status:** 🚧 In Progress
----
 
 ## 🌱 Currently Working On
 
 - Python Network Configuration Backup & Compliance Checker
 - Network Automation using Netmiko
-
----
 
 ## 📚 Current Learning Journey
 
