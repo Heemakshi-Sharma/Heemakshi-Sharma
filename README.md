@@ -6,7 +6,7 @@ I'm a Network Engineer at Capgemini, currently working in Cisco TAC and supporti
 
 ## 🎓 Education
 
-### M.Tech in Cloud Computing *(2025 – Present)*
+### M.Tech in Cloud Computing *(2026 – 2028)*
 **BITS Pilani – Work Integrated Learning Programme (WILP)**
 
 - **CGPA:** 9/10
