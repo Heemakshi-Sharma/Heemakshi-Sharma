@@ -5,7 +5,6 @@
 I'm a Network Engineer at Capgemini, currently working in Cisco TAC and supporting enterprise network environments. I enjoy solving networking challenges, building hands-on enterprise and data center labs, and continuously expanding my expertise in infrastructure monitoring, Linux, Docker, and Python-based network automation. This GitHub profile showcases the projects I build to strengthen my practical skills and document my learning journey.
 
 ## 🎓 Education
-## 🎓 Education
 
 ### M.Tech in Cloud Computing *(2025 – Present)*
 **BITS Pilani – Work Integrated Learning Programme (WILP)**
