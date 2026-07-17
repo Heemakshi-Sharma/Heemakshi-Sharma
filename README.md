@@ -104,7 +104,7 @@ Developing a Python-based automation tool to back up Cisco device configurations
 - Netmiko
 - Cisco APIs
 
-  ## 🚀 Current Focus
+ ## 🚀 Current Focus
 
 - Enterprise Network Design
 - Cisco LAN Switching
