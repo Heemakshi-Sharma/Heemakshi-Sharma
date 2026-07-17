@@ -105,6 +105,15 @@ Developing a Python-based automation tool to back up Cisco device configurations
 - Netmiko
 - Cisco APIs
 
+  ## 🚀 Current Focus
+
+- Enterprise Network Design
+- Cisco LAN Switching
+- Data Center Networking (Spine-Leaf & VXLAN Concepts)
+- Infrastructure Monitoring with Prometheus & Grafana
+- Python Network Automation
+- Linux Administration
+
 ## 🎯 Career Goals
 
 - Build production-ready network automation tools.
@@ -116,3 +125,4 @@ Developing a Python-based automation tool to back up Cisco device configurations
 
 - LinkedIn: www.linkedin.com/in/heemakshi-sharma
 - GitHub: https://github.com/Heemakshi-Sharma
+- Email: Heemakshisharma03@gmail.com
