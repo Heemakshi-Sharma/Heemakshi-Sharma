@@ -86,20 +86,44 @@ Provide technical support and troubleshooting for:
 - Record verification steps and issue resolution details.
 - Create clear and structured technical documentation to support future troubleshooting and knowledge sharing.
 
-## 🚀 Technology Stack
+## 🚀 Technology Stack - Tools & Technologies
 
-### 🌐 Networking
+### 🌐 Enterprise Networking
 
 ![Cisco IOS](https://img.shields.io/badge/Cisco-IOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Cisco Catalyst](https://img.shields.io/badge/Cisco-Catalyst-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Packet Tracer](https://img.shields.io/badge/Cisco-Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![VLAN](https://img.shields.io/badge/VLAN-Networking-blue?style=for-the-badge)
-![STP](https://img.shields.io/badge/STP-Layer2-blue?style=for-the-badge)
-![RSTP](https://img.shields.io/badge/RSTP-SpanningTree-blue?style=for-the-badge)
-![EtherChannel](https://img.shields.io/badge/EtherChannel-Cisco-blue?style=for-the-badge)
-![OSPF](https://img.shields.io/badge/OSPF-Routing-blue?style=for-the-badge)
 ![TCP/IP](https://img.shields.io/badge/TCP/IP-Networking-blue?style=for-the-badge)
-![ACL](https://img.shields.io/badge/ACL-Security-blue?style=for-the-badge)
+![IPv4](https://img.shields.io/badge/IPv4-Networking-blue?style=for-the-badge)
+![VLAN](https://img.shields.io/badge/VLAN-Layer2-blue?style=for-the-badge)
+![Trunking](https://img.shields.io/badge/802.1Q-Trunking-blue?style=for-the-badge)
+![Inter-VLAN Routing](https://img.shields.io/badge/Inter--VLAN-Routing-blue?style=for-the-badge)
+![STP](https://img.shields.io/badge/STP-Spanning%20Tree-blue?style=for-the-badge)
+![RSTP](https://img.shields.io/badge/RSTP-Layer2-blue?style=for-the-badge)
+![EtherChannel](https://img.shields.io/badge/EtherChannel-Cisco-blue?style=for-the-badge)
+![ACL](https://img.shields.io/badge/ACL-Network%20Security-blue?style=for-the-badge)
+![Routing](https://img.shields.io/badge/Routing-Layer3-blue?style=for-the-badge)
+![Switching](https://img.shields.io/badge/Switching-Layer2-blue?style=for-the-badge)
+![OSPF](https://img.shields.io/badge/OSPF-Dynamic%20Routing-blue?style=for-the-badge)
+
+### 🏢 Data Center Networking
+
+![Spine-Leaf](https://img.shields.io/badge/Spine--Leaf-Architecture-success?style=for-the-badge)
+![VXLAN](https://img.shields.io/badge/VXLAN-Overlay-success?style=for-the-badge)
+![EVPN](https://img.shields.io/badge/EVPN-Learning-success?style=for-the-badge)
+![VTEP](https://img.shields.io/badge/VTEP-Learning-success?style=for-the-badge)
+![Clos Topology](https://img.shields.io/badge/Clos-Topology-success?style=for-the-badge)
+![Cisco UCS](https://img.shields.io/badge/Cisco-UCS-success?style=for-the-badge)
+![Cisco HyperFlex](https://img.shields.io/badge/Cisco-HyperFlex-success?style=for-the-badge)
+
+### 📊 Monitoring & Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Infrastructure Monitoring](https://img.shields.io/badge/Infrastructure-Monitoring-orange?style=for-the-badge)
+![Network Monitoring](https://img.shields.io/badge/Network-Monitoring-orange?style=for-the-badge)
+![SNMP](https://img.shields.io/badge/SNMP-Learning-orange?style=for-the-badge)
 
 ### 🖥️ Operating Systems
 
@@ -107,69 +131,38 @@ Provide technical support and troubleshooting for:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-### 📊 Monitoring & Infrastructure
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-
-### 💻 Programming & Scripting
+### 💻 Programming & Automation
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Network Automation](https://img.shields.io/badge/Network-Automation-3776AB?style=for-the-badge)
+
+### ☁️ Cloud & Virtualization
+
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![Cloud Computing](https://img.shields.io/badge/Cloud-Computing-4285F4?style=for-the-badge)
+![Virtualization](https://img.shields.io/badge/Virtualization-005571?style=for-the-badge)
 
 ### 🔧 Version Control & Documentation
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Technical Documentation](https://img.shields.io/badge/Technical-Documentation-black?style=for-the-badge)
 
 ### 🤖 AI-Assisted Engineering
 
 ![ChatGPT](https://img.shields.io/badge/OpenAI-ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge)
 
-### ☁️ Cloud & Virtualization
+### 🛠️ Engineering Practices
 
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-## 🛠️ Tools & Technologies
-
-### 🌐 Networking
-
-![Cisco](https://img.shields.io/badge/Cisco-IOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Packet Tracer](https://img.shields.io/badge/Cisco-Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![OSPF](https://img.shields.io/badge/OSPF-Routing-blue?style=for-the-badge)
-![VLAN](https://img.shields.io/badge/VLAN-Networking-blue?style=for-the-badge)
-![STP](https://img.shields.io/badge/STP-Layer2-blue?style=for-the-badge)
-![EtherChannel](https://img.shields.io/badge/EtherChannel-Cisco-blue?style=for-the-badge)
-![ACL](https://img.shields.io/badge/ACL-Security-blue?style=for-the-badge)
-
-### 💻 Operating System
-
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-### 📊 Monitoring & Infrastructure
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-
-### 💻 Development
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
-### 🤖 AI-Assisted Development
-
-![ChatGPT](https://img.shields.io/badge/OpenAI-ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge)
-
-### 📚 Documentation
-
-![Markdown](https://img.shields.io/badge/Documentation-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![GitHub README](https://img.shields.io/badge/GitHub-README-181717?style=for-the-badge&logo=github&logoColor=white)
+![Network Troubleshooting](https://img.shields.io/badge/Network-Troubleshooting-red?style=for-the-badge)
+![Root Cause Analysis](https://img.shields.io/badge/Root-Cause%20Analysis-red?style=for-the-badge)
+![Incident Management](https://img.shields.io/badge/Incident-Management-red?style=for-the-badge)
+![Technical Support](https://img.shields.io/badge/Technical-Support-red?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/Problem-Solving-red?style=for-the-badge)
+![CLI](https://img.shields.io/badge/Cisco-IOS%20CLI-red?style=for-the-badge)
 
 ## 🤖 AI Usage
 
