@@ -41,7 +41,7 @@ Supporting enterprise customers by troubleshooting and resolving Cisco networkin
 - Validate network health using routing tables, interface statistics, MAC address tables, ARP tables, VLAN information, and spanning-tree details.
 - Restore network functionality while minimizing customer downtime.
 
-  ### Cisco Switching Technologies
+### Cisco Switching Technologies
 
 Provide technical support and troubleshooting for:
 
@@ -66,8 +66,6 @@ Provide technical support and troubleshooting for:
 - Document technical findings and recommend corrective actions.
 - Verify issue resolution before case closure.
 
----
-
 ### Customer Support & Incident Management
 
 - Work directly with enterprise customers to understand reported network issues.
@@ -75,16 +73,12 @@ Provide technical support and troubleshooting for:
 - Provide timely updates throughout the support lifecycle.
 - Maintain high-quality technical documentation for every customer case.
 - Ensure adherence to Cisco TAC troubleshooting methodologies and service processes.
-
----
-
+  
 ### Cross-Team Collaboration
 
 - Collaborate with senior engineers and global Cisco TAC teams to resolve complex networking issues.
 - Participate in technical discussions and knowledge sharing.
 - Escalate critical issues when necessary while ensuring effective communication between stakeholders.
-
----
 
 ### Technical Documentation
 
@@ -92,26 +86,52 @@ Provide technical support and troubleshooting for:
 - Record verification steps and issue resolution details.
 - Create clear and structured technical documentation to support future troubleshooting and knowledge sharing.
 
-
 ## 🚀 Technology Stack
 
-<p align="left">
+### 🌐 Networking
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,ubuntu,linux,markdown" />
+![Cisco IOS](https://img.shields.io/badge/Cisco-IOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Cisco Catalyst](https://img.shields.io/badge/Cisco-Catalyst-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Packet Tracer](https://img.shields.io/badge/Cisco-Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![VLAN](https://img.shields.io/badge/VLAN-Networking-blue?style=for-the-badge)
+![STP](https://img.shields.io/badge/STP-Layer2-blue?style=for-the-badge)
+![RSTP](https://img.shields.io/badge/RSTP-SpanningTree-blue?style=for-the-badge)
+![EtherChannel](https://img.shields.io/badge/EtherChannel-Cisco-blue?style=for-the-badge)
+![OSPF](https://img.shields.io/badge/OSPF-Routing-blue?style=for-the-badge)
+![TCP/IP](https://img.shields.io/badge/TCP/IP-Networking-blue?style=for-the-badge)
+![ACL](https://img.shields.io/badge/ACL-Security-blue?style=for-the-badge)
 
-</p>
+### 🖥️ Operating Systems
 
-<p>
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-<img src="https://img.shields.io/badge/Cisco-IOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-<img src="https://img.shields.io/badge/Packet_Tracer-Cisco-1BA0D7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI-ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge"/>
+### 📊 Monitoring & Infrastructure
 
-</p>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
+### 💻 Programming & Scripting
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+### 🔧 Version Control & Documentation
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+### 🤖 AI-Assisted Engineering
+
+![ChatGPT](https://img.shields.io/badge/OpenAI-ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge)
+
+### ☁️ Cloud & Virtualization
+
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 ## 🛠️ Tools & Technologies
 
 ### 🌐 Networking
