@@ -96,11 +96,14 @@ Provide technical support and troubleshooting for:
 ![TCP/IP](https://img.shields.io/badge/TCP/IP-Networking-blue?style=for-the-badge)
 ![IPv4](https://img.shields.io/badge/IPv4-Networking-blue?style=for-the-badge)
 ![VLAN](https://img.shields.io/badge/VLAN-Layer2-blue?style=for-the-badge)
-![Trunking](https://img.shields.io/badge/802.1Q-Trunking-blue?style=for-the-badge)
+![802.1Q](https://img.shields.io/badge/802.1Q-Trunking-blue?style=for-the-badge)
 ![Inter-VLAN Routing](https://img.shields.io/badge/Inter--VLAN-Routing-blue?style=for-the-badge)
+![DTP](https://img.shields.io/badge/DTP-Dynamic%20Trunking-blue?style=for-the-badge)
+![VTP](https://img.shields.io/badge/VTP-VLAN%20Management-blue?style=for-the-badge)
 ![STP](https://img.shields.io/badge/STP-Spanning%20Tree-blue?style=for-the-badge)
 ![RSTP](https://img.shields.io/badge/RSTP-Layer2-blue?style=for-the-badge)
-![EtherChannel](https://img.shields.io/badge/EtherChannel-Cisco-blue?style=for-the-badge)
+![EtherChannel](https://img.shields.io/badge/EtherChannel-Link%20Aggregation-blue?style=for-the-badge)
+![VSS](https://img.shields.io/badge/VSS-Virtual%20Switch%20System-blue?style=for-the-badge)
 ![ACL](https://img.shields.io/badge/ACL-Network%20Security-blue?style=for-the-badge)
 ![Routing](https://img.shields.io/badge/Routing-Layer3-blue?style=for-the-badge)
 ![Switching](https://img.shields.io/badge/Switching-Layer2-blue?style=for-the-badge)
@@ -113,8 +116,6 @@ Provide technical support and troubleshooting for:
 ![EVPN](https://img.shields.io/badge/EVPN-Learning-success?style=for-the-badge)
 ![VTEP](https://img.shields.io/badge/VTEP-Learning-success?style=for-the-badge)
 ![Clos Topology](https://img.shields.io/badge/Clos-Topology-success?style=for-the-badge)
-![Cisco UCS](https://img.shields.io/badge/Cisco-UCS-success?style=for-the-badge)
-![Cisco HyperFlex](https://img.shields.io/badge/Cisco-HyperFlex-success?style=for-the-badge)
 
 ### 📊 Monitoring & Infrastructure
 
@@ -143,17 +144,15 @@ Provide technical support and troubleshooting for:
 ![Cloud Computing](https://img.shields.io/badge/Cloud-Computing-4285F4?style=for-the-badge)
 ![Virtualization](https://img.shields.io/badge/Virtualization-005571?style=for-the-badge)
 
-### 🔧 Version Control & Documentation
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Technical Documentation](https://img.shields.io/badge/Technical-Documentation-black?style=for-the-badge)
-
 ### 🤖 AI-Assisted Engineering
 
 ![ChatGPT](https://img.shields.io/badge/OpenAI-ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge)
+
+### 📚 Training
+
+![CCNA](https://img.shields.io/badge/CCNA-Training-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![CCNP Enterprise](https://img.shields.io/badge/CCNP%20Enterprise-Training-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 ### 🛠️ Engineering Practices
 
@@ -162,7 +161,7 @@ Provide technical support and troubleshooting for:
 ![Incident Management](https://img.shields.io/badge/Incident-Management-red?style=for-the-badge)
 ![Technical Support](https://img.shields.io/badge/Technical-Support-red?style=for-the-badge)
 ![Problem Solving](https://img.shields.io/badge/Problem-Solving-red?style=for-the-badge)
-![CLI](https://img.shields.io/badge/Cisco-IOS%20CLI-red?style=for-the-badge)
+![Cisco IOS CLI](https://img.shields.io/badge/Cisco-IOS%20CLI-red?style=for-the-badge)
 
 ## 🤖 AI Usage
 
