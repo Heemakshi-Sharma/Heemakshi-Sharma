@@ -33,13 +33,66 @@ Supporting enterprise customers by troubleshooting and resolving Cisco networkin
 
 **Key Responsibilities**
 
-• Provide technical support for enterprise customers on Cisco Catalyst Switches and Cisco HyperFlex infrastructure.
-• Troubleshoot Layer 2 and Layer 3 networking issues involving VLANs, STP, TCP/IP, routing, switching, and data center technologies.
-• Investigate compute, storage, virtualization, and cluster networking issues within Cisco HyperFlex environments.
-• Own Priority 1 and Priority 2 production incidents, perform Root Cause Analysis (RCA), and restore services within SLA.
-• Analyze logs, validate infrastructure health, and isolate faults to improve service reliability and reduce recurring issues.
-• Collaborate with Cisco engineering and global TAC teams to resolve complex customer escalations.
-• Support enterprise network and data center environments while maintaining high service availability and customer satisfaction.
+### Enterprise Network Troubleshooting
+
+- Troubleshoot Layer 2 and Layer 3 networking issues across enterprise customer environments.
+- Analyze network outages, intermittent connectivity issues, packet forwarding problems, and switching-related incidents.
+- Perform systematic troubleshooting using Cisco IOS CLI and industry-standard diagnostic methodologies.
+- Validate network health using routing tables, interface statistics, MAC address tables, ARP tables, VLAN information, and spanning-tree details.
+- Restore network functionality while minimizing customer downtime.
+
+  ### Cisco Switching Technologies
+
+Provide technical support and troubleshooting for:
+
+- Cisco Catalyst Switches
+- VLAN Configuration & Segmentation
+- IEEE 802.1Q Trunking
+- Inter-VLAN Routing
+- Spanning Tree Protocol (STP)
+- Rapid Spanning Tree Protocol (RSTP)
+- EtherChannel
+- Port-Channel Configuration
+- Port Security
+- Layer 2 Switching
+- Interface Configuration
+- MAC Address Learning
+- Switch Management
+
+### Root Cause Analysis (RCA)
+
+- Investigate recurring customer issues to determine the underlying cause.
+- Analyze command outputs, logs, and network behavior.
+- Document technical findings and recommend corrective actions.
+- Verify issue resolution before case closure.
+
+---
+
+### Customer Support & Incident Management
+
+- Work directly with enterprise customers to understand reported network issues.
+- Collect and analyze diagnostic information required for troubleshooting.
+- Provide timely updates throughout the support lifecycle.
+- Maintain high-quality technical documentation for every customer case.
+- Ensure adherence to Cisco TAC troubleshooting methodologies and service processes.
+
+---
+
+### Cross-Team Collaboration
+
+- Collaborate with senior engineers and global Cisco TAC teams to resolve complex networking issues.
+- Participate in technical discussions and knowledge sharing.
+- Escalate critical issues when necessary while ensuring effective communication between stakeholders.
+
+---
+
+### Technical Documentation
+
+- Document troubleshooting procedures and configuration observations.
+- Record verification steps and issue resolution details.
+- Create clear and structured technical documentation to support future troubleshooting and knowledge sharing.
+
+
 ## 🚀 Technology Stack
 
 <p align="left">
