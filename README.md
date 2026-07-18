@@ -20,7 +20,7 @@ I'm a Network Engineer at Capgemini, currently working in Cisco TAC and supporti
 - **CGPA:** 8.68/10
 - Awarded the **Bronze Medal** for securing **3rd Position Overall** in the B.Tech CSE program.
 - Minor specialization in **Computer Forensics & Cyber Security**.
-- Published a white paper titled **"Importance of Website Usability and Digital Marketing"** (June 2023).
+- Published a white paper titled **"Importance of Website Usability in Digital Marketing"** (June 2023).
 - Completed multiple academic and practical projects in networking, cybersecurity, Python, and web technologies.
 
 ## 💼 Professional Experience
@@ -132,8 +132,6 @@ Provide technical support and troubleshooting for:
 ![OSPF](https://img.shields.io/badge/OSPF-Dynamic%20Routing-0052CC?style=for-the-badge)
 ![BGP](https://img.shields.io/badge/BGP-Path%20Vector-0052CC?style=for-the-badge)
 ![IS--IS](https://img.shields.io/badge/IS--IS-Link%20State-0052CC?style=for-the-badge)
-![Route Redistribution](https://img.shields.io/badge/Route-Redistribution-0052CC?style=for-the-badge)
-![Default Routing](https://img.shields.io/badge/Default-Routing-0052CC?style=for-the-badge)
 
 ### Data Center Networking
 
@@ -238,30 +236,7 @@ Built an infrastructure monitoring platform using Ubuntu, Docker, Prometheus, an
 **Repository:**  
 https://github.com/Heemakshi-Sharma/infrastructure-monitoring-prometheus-grafana
 
-### Python Network Automation (In Progress)
-
-Developing a Python-based automation tool to back up Cisco device configurations and perform compliance checks.
-
-**Status:** 🚧 In Progress
-
-## Currently Working On
-
-- Python Network Configuration Backup & Compliance Checker
-- Network Automation using Netmiko
-
-## 📚 Current Learning Journey
-
-- Enterprise Networking
-- Data Center Networking
-- Linux Administration
-- Docker
-- Prometheus
-- Grafana
-- Python for Network Automation
-- Netmiko
-- Cisco APIs
-
- ## Current Focus
+## Current Focus
 
 - Enterprise Network Design
 - Cisco LAN Switching
