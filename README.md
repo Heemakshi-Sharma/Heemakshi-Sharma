@@ -40,6 +40,24 @@ Supporting enterprise customers by troubleshooting and resolving Cisco networkin
 • Analyze logs, validate infrastructure health, and isolate faults to improve service reliability and reduce recurring issues.
 • Collaborate with Cisco engineering and global TAC teams to resolve complex customer escalations.
 • Support enterprise network and data center environments while maintaining high service availability and customer satisfaction.
+## 🚀 Technology Stack
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,ubuntu,linux,markdown" />
+
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Cisco-IOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/Packet_Tracer-Cisco-1BA0D7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge"/>
+
+</p>
 
 ## 🛠️ Tools & Technologies
 
@@ -79,6 +97,27 @@ Supporting enterprise customers by troubleshooting and resolving Cisco networkin
 
 ![Markdown](https://img.shields.io/badge/Documentation-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![GitHub README](https://img.shields.io/badge/GitHub-README-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## 🤖 AI Usage
+
+Artificial Intelligence tools were used to improve productivity and learning throughout this project.
+
+AI-assisted tasks included:
+
+- Understanding networking concepts
+- Troubleshooting Linux and Docker issues
+- Reviewing configurations
+- Improving technical documentation
+- Organizing repository structure
+- Writing Markdown documentation
+- Learning best practices for infrastructure monitoring
+
+**AI Tools Used**
+
+- ChatGPT (OpenAI)
+- Claude AI (Anthropic)
+
+> **Note:** All network design, configurations, implementation, testing, troubleshooting, and validation were performed manually. AI was used as a learning and documentation assistant.
 
 ## 📂 Featured Projects
 
