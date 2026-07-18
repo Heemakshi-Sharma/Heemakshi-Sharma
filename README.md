@@ -18,7 +18,7 @@ I'm a Network Engineer at Capgemini, currently working in Cisco TAC and supporti
 **Amity University, Gurugram**
 
 - **CGPA:** 8.68/10
-- 🥉 Awarded the **Bronze Medal** for securing **3rd Position Overall** in the B.Tech CSE program.
+- Awarded the **Bronze Medal** for securing **3rd Position Overall** in the B.Tech CSE program.
 - Minor specialization in **Computer Forensics & Cyber Security**.
 - Published a white paper titled **"Importance of Website Usability and Digital Marketing"** (June 2023).
 - Completed multiple academic and practical projects in networking, cybersecurity, Python, and web technologies.
@@ -33,61 +33,83 @@ Supporting enterprise customers by troubleshooting and resolving Cisco networkin
 
 **Key Responsibilities**
 
-- Troubleshoot Layer 2 and Layer 3 network issues on Cisco enterprise environments.
-- Analyze switch logs, routing behavior, and network performance.
-- Perform Root Cause Analysis (RCA) for customer incidents.
-- Collaborate with global engineering teams to resolve complex technical issues.
-- Support Cisco LAN Switching technologies and enterprise network infrastructure.
-- Work with Cisco HyperFlex and Cisco Switching environments.
+• Provide technical support for enterprise customers on Cisco Catalyst Switches and Cisco HyperFlex infrastructure.
+• Troubleshoot Layer 2 and Layer 3 networking issues involving VLANs, STP, TCP/IP, routing, switching, and data center technologies.
+• Investigate compute, storage, virtualization, and cluster networking issues within Cisco HyperFlex environments.
+• Own Priority 1 and Priority 2 production incidents, perform Root Cause Analysis (RCA), and restore services within SLA.
+• Analyze logs, validate infrastructure health, and isolate faults to improve service reliability and reduce recurring issues.
+• Collaborate with Cisco engineering and global TAC teams to resolve complex customer escalations.
+• Support enterprise network and data center environments while maintaining high service availability and customer satisfaction.
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tools & Technologies
 
-![Cisco](https://img.shields.io/badge/Cisco-Networking-blue?style=for-the-badge)
+### 🌐 Networking
 
-![Python](https://img.shields.io/badge/Python-Programming-yellow?style=for-the-badge)
+![Cisco](https://img.shields.io/badge/Cisco-IOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Packet Tracer](https://img.shields.io/badge/Cisco-Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![OSPF](https://img.shields.io/badge/OSPF-Routing-blue?style=for-the-badge)
+![VLAN](https://img.shields.io/badge/VLAN-Networking-blue?style=for-the-badge)
+![STP](https://img.shields.io/badge/STP-Layer2-blue?style=for-the-badge)
+![EtherChannel](https://img.shields.io/badge/EtherChannel-Cisco-blue?style=for-the-badge)
+![ACL](https://img.shields.io/badge/ACL-Security-blue?style=for-the-badge)
 
-![Docker](https://img.shields.io/badge/Docker-Containerization-blue?style=for-the-badge)
+### 💻 Operating System
 
-![Linux](https://img.shields.io/badge/Linux-Ubuntu-orange?style=for-the-badge)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-orange?style=for-the-badge)
+### 📊 Monitoring & Infrastructure
 
-![Grafana](https://img.shields.io/badge/Grafana-Visualization-orange?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-![Git](https://img.shields.io/badge/Git-Version%20Control-red?style=for-the-badge)
+### 💻 Development
 
-![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+### 🤖 AI-Assisted Development
+
+![ChatGPT](https://img.shields.io/badge/OpenAI-ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge)
+
+### 📚 Documentation
+
+![Markdown](https://img.shields.io/badge/Documentation-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![GitHub README](https://img.shields.io/badge/GitHub-README-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📂 Featured Projects
 
-### 🚀 Enterprise Network Design & Implementation
+### Enterprise Network Design & Implementation
 
 Designed and implemented a multi-site enterprise network using Cisco Packet Tracer.
 
 **Repository:**  
 https://github.com/Heemakshi-Sharma/enterprise-network-design
 
-### 🌐 Data Center Spine-Leaf Architecture
+### Data Center Spine-Leaf Architecture
 
 Designed a modern Spine-Leaf Data Center topology while studying VXLAN concepts and scalable network architectures.
 
 **Repository:**  
 https://github.com/Heemakshi-Sharma/data-center-vxlan-spine-leaf
 
-### 📊 Infrastructure Monitoring Platform
+### Infrastructure Monitoring Platform
 
 Built an infrastructure monitoring platform using Ubuntu, Docker, Prometheus, and Grafana.
 
 **Repository:**  
 https://github.com/Heemakshi-Sharma/infrastructure-monitoring-prometheus-grafana
 
-### 🤖 Python Network Automation (In Progress)
+### Python Network Automation (In Progress)
 
 Developing a Python-based automation tool to back up Cisco device configurations and perform compliance checks.
 
 **Status:** 🚧 In Progress
 
-## 🌱 Currently Working On
+## Currently Working On
 
 - Python Network Configuration Backup & Compliance Checker
 - Network Automation using Netmiko
@@ -104,7 +126,7 @@ Developing a Python-based automation tool to back up Cisco device configurations
 - Netmiko
 - Cisco APIs
 
- ## 🚀 Current Focus
+ ## Current Focus
 
 - Enterprise Network Design
 - Cisco LAN Switching
